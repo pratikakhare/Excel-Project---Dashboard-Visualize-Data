@@ -2,6 +2,10 @@
 
 # 🛒 Store Sales Data Analysis - Excel Project
 
+<img width="1322" height="573" alt="Screenshot 2025-09-29 193805" src="https://github.com/user-attachments/assets/352b96b4-5a97-4049-aeed-419a33aac0db" />
+
+![Uploading Screenshot 2025-09-29 193848.png…]()
+
 ## 📌 Project Overview
 This project analyzes **store sales data** using **Microsoft Excel**.  
 The goal is to clean, visualize, and derive insights from sales data to support better business decisions.
