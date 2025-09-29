@@ -4,7 +4,8 @@
 
 <img width="1322" height="573" alt="Screenshot 2025-09-29 193805" src="https://github.com/user-attachments/assets/352b96b4-5a97-4049-aeed-419a33aac0db" />
 
-![Uploading Screenshot 2025-09-29 193848.png…]()
+<img width="1349" height="597" alt="Screenshot 2025-09-29 193848" src="https://github.com/user-attachments/assets/a94b237d-3c9a-41df-882d-4b2e54e7bf77" />
+
 
 ## 📌 Project Overview
 This project analyzes **store sales data** using **Microsoft Excel**.  
